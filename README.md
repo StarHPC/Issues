@@ -1,4 +1,4 @@
-# Star HPC Research Community Support
+# Star HPC Issue Tracker
 
 Welcome to the **Star HPC Support** repository! This is an issues-only repository is for reporting, tracking, and resolving issues with job submission, scheduling, storage, account management, and other technical matters.
 
