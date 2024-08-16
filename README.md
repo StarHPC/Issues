@@ -12,13 +12,6 @@ This repository is intended for client support only. If you encounter any proble
 4. **Label the Issue**: Use the available labels to categorize your issue, such as "bug", "question", "enhancement", or "support."
 5. **Submit the Issue**: Click "Submit new issue" to create the ticket.
 
-### Categories of Support
-
-- **Account Management**: Problems with account creation, access, or permissions.
-- **Job Scheduling**: Assistance with submitting, running, or troubleshooting jobs on the Star cluster.
-- **Storage Issues**: Help with storage quotas, file systems, or data management.
-- **General HPC Support**: Any other HPC-related issues, questions, or requests.
-
 ### Guidelines
 
 - **Be Specific**: Provide as much detail as possible when submitting a ticket, including error messages, logs, job IDs, and steps to reproduce the issue.
