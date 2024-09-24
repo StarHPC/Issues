@@ -13,7 +13,7 @@ This repository is intended for client support only. If you encounter any proble
 5. **Submit the Issue**: Click "Submit new issue" to create the ticket.
 
 > [!WARNING]
-> **Not For Security-Related Issues or Sensitive Information**
+> **NOT FOR SECURITY-RELATED MATTERS OR SENSITIVE INFORMATION**
 >
 > Do not submit any security-related issues or sensitive information. This repository is meant for general support, bugs, and feedback only. All submissions are public and visible to others. _Never_ submit any sensitive, confidential, or personally identifiable information (such as usernames or passwords). For security-related disclosures, concerns, or matters involving sensitive data, please contact us directly at starhpc@hofstra.edu.
 
