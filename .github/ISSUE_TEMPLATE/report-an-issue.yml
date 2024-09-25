@@ -1,0 +1,53 @@
+name: Report an issue
+description: Report a technical problem on the Star cluster.
+labels:
+  - content
+body:
+  - type: markdown
+    attributes:
+      value: |
+        * Check if your question is addressed by the [FAQs](https://docs.starhpc.hofstra.io/help/faq.html).
+        * Check to make sure someone hasn't already opened a similar [issue](https://github.com/StarHPC/Issues/issues).
+        * Before you file an issue, please see [How to write good support requests](https://docs.starhpc.hofstra.io/help/writing-support-requests.html).
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: This project has a Code of Conduct that all participants are expected to understand and follow.
+      options:
+        - label: I have read and agree to Star HPC's [Code of Conduct](https://github.com/github/docs/blob/main/.github/CODE_OF_CONDUCT.md)
+          required: true
+
+  - type: textarea
+    attributes:
+      label: What is the problem?
+      description: |
+        - Give as much detail as you can to help us understand the problem. 
+        - What are you trying to accomplish? 
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce:
+      description: Please provide step-by-step directions for us to reproduce the issue. 
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Results:
+      description: What is the expected outcome or behavior?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional information
+      description: |
+        - Please provide any additional information, configuration, or data that might be necessary to reproduce the issue.
+        - Are you able to reliably reproduce the problem? How often does it occur? How many users are affected?
+        - Add any other context or screenshots about the feature here.
+    validations:
+      required: false
