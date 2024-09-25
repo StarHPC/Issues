@@ -30,14 +30,14 @@ body:
 
   - type: textarea
     attributes:
-      label: Steps to Reproduce:
+      label: Steps to Reproduce
       description: Please provide step-by-step directions for us to reproduce the issue. 
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: Expected Results:
+      label: Expected Results
       description: What is the expected outcome or behavior?
     validations:
       required: true
