@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Read the FAQs
+    url: https://docs.starhpc.hofstra.io/help/faq.html
+    about: Please read the FAQs before reporting an issue or seeking assistance.
   - name: Star HPC Support
     url: https://docs.starhpc.hofstra.io/help/contact.html
-    about: Contact Support if you're having trouble with your Star HPC account.
+    about: Contact us if you are having trouble with your HPC account.
